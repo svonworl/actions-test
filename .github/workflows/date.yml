@@ -1,6 +1,6 @@
 name: Update Date
 on:
-  workflow_dispatch
+  workflow_dispatch:
 jobs:
   date:
     runs-on: ubuntu-latest
