@@ -1,3 +1,4 @@
+name: Update Date
 on: push
 jobs:
   date:
