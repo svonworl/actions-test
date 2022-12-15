@@ -1,3 +1,4 @@
 name: Try
-on: push
+on:
+  workflow_dispatch:
 jobs:
